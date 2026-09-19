@@ -8,13 +8,12 @@ I enjoy working with data to identify patterns, answer business questions, and c
 
 ## Technical Skills
 
-**Languages:** Python, SQL, R
-**Data Analysis:** Pandas, NumPy, Data Cleaning, Exploratory Data Analysis
-**Visualization:** Matplotlib, Seaborn, Power BI, Excel
-**Machine Learning:** Scikit-learn
-**Web Scraping:** BeautifulSoup, Requests
-**Tools:** Jupyter Notebook, Git, GitHub
-
+- **Languages:** Python, SQL, R
+- **Data Analysis:** Pandas, NumPy, Data Cleaning, Exploratory Data Analysis
+- **Visualization:** Matplotlib, Seaborn, Power BI, Excel
+- **Machine Learning:** Scikit-learn
+- **Web Scraping:** BeautifulSoup, Requests
+- **Tools:** Jupyter Notebook, Git, GitHub
 ## Featured Projects
 
 ### Student Performance Analysis
