@@ -16,10 +16,9 @@ I enjoy working with data to identify patterns, answer business questions, and c
 - **Tools:** Jupyter Notebook, Git, GitHub
 ## Featured Projects
 
-### Student Performance Analysis
+### [Student Performance Analysis](YOUR-GITHUB-REPOSITORY-LINK)
 
 Analyzed student performance data to identify factors such as study time, attendance, and background variables associated with academic outcomes.
-
 ### Airbnb Rental Price & Availability Analysis
 
 Explored Airbnb pricing and availability patterns using Python, Pandas, NumPy, data cleaning, feature engineering, and visualization.
