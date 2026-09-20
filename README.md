@@ -1,4 +1,4 @@
-# Hi, I'm Poonam Lonkar 👋
+# Hello, I'm Poonam Lonkar 
 
 ### Data Analyst | M.Sc. Data Science & Analytics
 
